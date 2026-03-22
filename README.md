@@ -10,8 +10,6 @@ I'm a passionate Flutter Developer dedicated to building intuitive, high-perform
 - 🎓 Graduated from **Sakarya University** (Information Systems Engineering).
 - 🏗️ Focused on writing scalable and maintainable code using **Clean Architecture** and SOLID principles.
 - 📱 Highly interested in **App Store Optimization (ASO)** to improve app visibility and user acquisition.
-- 💡 Currently developing my personal project: **LoveTodo**.
-- ⚡ **Outside of coding:** I enjoy photography and maintaining a healthy lifestyle through mindful eating.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -23,6 +21,10 @@ I'm a passionate Flutter Developer dedicated to building intuitive, high-perform
 - Dio
 - Drift (Local Database)
 
+<p align="center">
+  <img src="- https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Canberk's GitHub Stats" />
+</p>
+
 **Core Technologies:**
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
@@ -32,19 +34,5 @@ I'm a passionate Flutter Developer dedicated to building intuitive, high-perform
   <img src="https://img.shields.io/badge/BLoC%20%2F%20Cubit-informational?style=for-the-badge" alt="BLoC/Cubit" />
 </p>
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canberk-saka&show_icons=true&theme=radium&locale=en" alt="Canberk's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canberk-saka&layout=compact&theme=radium" alt="Top Languages" />
-</p>
 
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/canberksaka" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
