@@ -42,9 +42,11 @@ I'm a passionate Flutter Developer dedicated to building intuitive, high-perform
   <a href="https://github.com/canberk-saka" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://medium.com/@canberk_saka" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
   <a href="mailto:ahmetcanberksaka@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
 
